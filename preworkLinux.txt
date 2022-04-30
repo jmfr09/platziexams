@@ -1,0 +1,29 @@
+¿Qué software podemos usar para crear una *USB booteable*?
+R= Rufus.
+
+¿Qué comando nos sirve para instalar paquetes en Ubuntu?
+R= sudo apt install name_package
+
+¿Qué utilidad nos ayuda a manejar diferentes versiones de Node?
+R= nvm
+
+¿Qué opción es súper importante que desactivemos en el BIOS para poder instalar Ubuntu?
+R= secure boot
+
+¿Qué versión de Google Chrome viene con características experimentales?
+R= canary
+
+¿Qué son las DevTools?	X
+R= software extra para desarrollar en el navegador.
+
+Si queremos probar un sistema operativo sin instalarlo en nuestra computadora, podemos:
+R= instalarlo en una maquina virtual.
+
+¿Qué es Git?
+R=es un sistema de control de versiones.
+
+¿Qué es GNU/Linux?	X
+R=es el nombre de un sistema operativo.
+
+¿Qué extensión nos permite actualizar los cambios de nuestra página web de manera automática?
+R= live server.

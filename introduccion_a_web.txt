@@ -1,0 +1,39 @@
+¿Cuáles fueron las tres tecnologías que dieron nacimiento a la web como la conocemos hoy en día? 
+R= html, url, http.
+
+En binario ¿cómo se representaría el número 38?
+R= 00100110
+¿Qué significa WWW? 
+R= world wide web
+¿Cuál es el protocolo que utilizamos para poder enviar y recibir peticiones en la web?
+R= http
+¿Cómo se forma un pixel? 
+R= un pixel se forma por la combinacion de tonos de 3 subpixeles.(rgb)
+¿Cuáles son todas las partes de un Critical Rendering Path?
+R= 1.DOM2.CSSOM3.Rendertree4.jsEngine5.Layout6.Paint
+¿Para qué servían las tarjetas perforadas?
+R= para almacenar informacion e ingresar instrucciones a una computadora.
+¿Cómo convierte una computadora texto en unos y ceros?
+R= las computadores convierten texto y otros datos en binario utilizando...
+¿Qué es ISP? 
+R= proveedor de servicios de internet.
+¿Cuáles son periféricos de entrada? 
+R= teclado, microfono, camara. mouse, escaner.
+¿Quién creó el primer navegador? 
+R= tim berners-lee
+¿Cuáles son periféricos de salida?
+R= monitor, bocinas, audifonos, e impresora.
+¿Cómo representamos el color rojo en RGB?
+R= (255,0,0)
+¿Cuántos bits tiene un byte?
+R= un byte tiene 8 bits.
+HTML y CSS son dos de los principales estándares web.
+R= verdadero.
+¿En qué paso del Critical Rendering Path, se combina el DOM y el CSSOM? 
+R= render tree
+En binario ¿cómo se representaría el string “hola”?
+R= 0110100 01101111 01101100 0110001.
+¿En qué paso del Critical Rendering Path comenzamos a crear la estructura del proyecto sin diseño? 
+R= ñayout.
+
+
